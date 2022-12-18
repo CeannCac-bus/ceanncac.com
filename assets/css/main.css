@@ -4066,13 +4066,21 @@ video {
 
       .buy-1{
       background-color: #2183a2;
+      margin-bottom: 5px;
       }
       .buy-2{
       background-color: #3b3e6e;
+      margin-bottom: 5px;
       }
       .buy-3{
       background-color: #0b0b0b;
+      margin-bottom: 5px;
       }
+
+
+
+
+
       @media(max-width: 1000px){
       .content{
       width: 46%;
@@ -4082,4 +4090,8 @@ video {
       .content{
       width: 100%;
       }
+      }
+
+      #dfee {
+      	opacity: .5;
       }
