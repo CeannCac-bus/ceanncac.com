@@ -4085,9 +4085,18 @@ video {
       .content{
       width: 46%;
       }
+      .contentp{
+      width: 46%;
+      }
+
+
+
       }
       @media(max-width: 750px){
       .content{
+      width: 100%;
+      }
+      .contentp{
       width: 100%;
       }
       }
